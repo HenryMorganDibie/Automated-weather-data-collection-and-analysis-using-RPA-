@@ -17,5 +17,33 @@ By successfully integrating RPA into my data analysis workflow, I showcased my a
 
 I am excited to continue exploring the synergies between RPA and data analysis in future projects, leveraging automation to unlock hidden insights and drive impactful outcomes. RPA has truly been a game-changer in my data analysis journey, and I look forward to further harnessing its potential to extract value from complex datasets.
 
+## Here are some insights derived from the analysis of the weather data for the states in Nigeria:
+
+Temperature Variation:
+
+The temperature across the selected states varies widely, with Kano having the highest temperature (35.94°C) and Enugu having the lowest (23.66°C).
+The mean temperature across all states is approximately 30.38°C, with a standard deviation of 3.90°C, indicating moderate variability.
+Humidity Levels:
+
+Humidity levels also vary significantly among the states, ranging from 34% in Kaduna to 88% in Enugu.
+The mean humidity across all states is about 63.78%, with a standard deviation of 19.56%, indicating considerable variability.
+Correlation between Temperature and Humidity:
+
+There is a strong negative correlation of approximately -0.89 between temperature and humidity. This implies that as temperature increases, humidity tends to decrease, and vice versa.
+Geographical Distribution:
+
+The geographic visualization using Folium provides a clear representation of the locations of the states in Nigeria.
+It helps in understanding the spatial distribution of weather conditions and how they might vary across different regions of the country.
+Outlier Detection:
+
+No outliers were detected in the temperature data based on the z-score threshold of ±3 standard deviations. All temperature values fall within a reasonable range for the selected states.
+Seasonal Decomposition:
+
+Seasonal decomposition analysis indicates that the data might not have a clear seasonal pattern. This could be due to the short duration of data collection or the lack of significant seasonal variation.
+Data Comparison:
+
+Bar charts comparing temperature and humidity levels across different states provide a visual comparison of the weather conditions.
+It helps in identifying states with extreme weather conditions and understanding the overall distribution of temperature and humidity.
+
 #RPA #Automation #WeatherData #DataAnalysis #Efficiency #Insights
 
